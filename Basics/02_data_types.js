@@ -27,7 +27,7 @@ console.log(typeof null); // object
 // 7P : String, Number, Boolean, null, undefined, Symbol, Bigint
 
 
-// Reference (non-primitive) : Array, Objects, Functions
+// Reference (non-primitive) : Array, Objects, Functions => return type is always an object
 //1
 const fruits = ["apple", "mango", "pineapple"];
 
